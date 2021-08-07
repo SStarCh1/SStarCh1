@@ -1,5 +1,10 @@
 ## Olá, eu sou o Lucas ou Star
 
+-  Living in BA, Brazil 
+-  Currently learning from the basics
+-  I am always interested in learning something new.
+
+
 <div>
 
  <a href="https://github.com/SStarCh1"> 
