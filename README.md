@@ -2,10 +2,7 @@
 
 -  Living in BA, Brazil 
 -  Currently learning from the basics
--  I am always interested in learning something new.
-
-<img align="top" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3954904-58a6-47b3-86d5-4f89296b91e0/dbj4k7p-9f81a443-32c5-4031-af46-e912faddf8b8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MzOTU0OTA0LTU4YTYtNDdiMy04NmQ1LTRmODkyOTZiOTFlMFwvZGJqNGs3cC05ZjgxYTQ0My0zMmM1LTQwMzEtYWY0Ni1lOTEyZmFkZGY4YjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Iowg1J7m2hZDnsqnuNn2TM2GmXmoTE1IjIi5QIVJ4zs" style="max-width:70%;"></img>
-<br>
+-  I am always interested in learning something new
 
 ## 🌟 Know the basics
 <div align="left">
