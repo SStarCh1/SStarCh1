@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucas ou Star
+## Ey, im Lucas or 'Star'
 
 -  Living in BA, Brazil 
 -  Currently learning from the basics
